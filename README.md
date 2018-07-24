@@ -21,4 +21,4 @@
 - 深圳罗湖 http://www.szlh.gov.cn/opendata/
 - 深圳质量监管 http://www.szscjg.gov.cn/fz/opendata/
 - 深圳住建 http://www.szjs.gov.cn/fzlm/opendata/
- 
+- 深圳政府数据开放平台 http://opendata.sz.gov.cn/ 

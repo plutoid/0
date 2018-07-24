@@ -6,6 +6,7 @@
 - 中国专利数据 http://patdata.sipo.gov.cn/ 
 - 中国气象开放服务平台 http://openweather.weather.com.cn/
 - 上海市政府数据服务网 http://www.datashanghai.gov.cn/
+- 法律文书网 https://wenshu.court.gov.cn/
 - 北京 http://www.bjdata.gov.cn/
 - 上海 http://www.datashanghai.gov.cn/
 

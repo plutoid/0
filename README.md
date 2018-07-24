@@ -9,7 +9,7 @@
 - 法律文书网 https://wenshu.court.gov.cn/
 - 北京 http://www.bjdata.gov.cn/
 - 上海 http://www.datashanghai.gov.cn/
-
+- 江苏政务服务网  http://www.jszwfw.gov.cn/
 - 浙江省 http://data.zjzwfw.gov.cn/
 - 武汉 http://wuhandata.gov.cn
 - 青岛 http://data.qingdao.gov.cn/
